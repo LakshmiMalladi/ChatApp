@@ -1,0 +1,9 @@
+{
+  "name": "basic-web-socket-app",
+  "version": "0.0.0",
+  "description": "BasicWebSocketApp",
+  "main": "server.js",
+  "author": {
+    "name": "KriLak"
+  }
+}
